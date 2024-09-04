@@ -1,4 +1,4 @@
-
+/* 
  @media only screen and (min-width: 600px) {
     .iphone-container {
       display: flex;
@@ -69,10 +69,10 @@
     grid-row: 4 / 5;
 } 
 
- }
+ } */
 
 
-/* 
+ 
 * {
     padding: 0;
     margin: 0;
@@ -403,4 +403,4 @@ color: #fff;
         font-size: 12px;
     }
  
-} */
+} 
